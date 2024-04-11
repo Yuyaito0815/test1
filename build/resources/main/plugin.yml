@@ -1,0 +1,4 @@
+name: untitled1
+version: '1.0-SNAPSHOT'
+main: plugin.sample.Untitled1
+api-version: '1.20'
